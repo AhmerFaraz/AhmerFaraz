@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 About Me:
 
-I am a passionate Full Stack Developer and a Python Developer. I am currently learning about Computer Networking. I am a Bachelor of Engineering student of Computer Science and Engineering stream. I love to create innovative project ideas and implement them using my skills. I also like to practice my skills by working on many projects.
+I am a passionate Python Developer and a Full stack web developer. I am currently learning about Computer Networking. I am a Bachelor of Engineering student of Computer Science and Engineering stream. I love to create innovative project ideas and implement them using my skills. I also like to practice my skills by working on many projects.
